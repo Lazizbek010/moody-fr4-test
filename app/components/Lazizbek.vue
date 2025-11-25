@@ -1,6 +1,7 @@
 <template>
   <div>
     salom bu lazizbek
+    <h1>salom</h1>
   </div>
 </template>
 
